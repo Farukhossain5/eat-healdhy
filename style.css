@@ -34,8 +34,10 @@ p{
     padding-left: 5%;
 }
 .half-width img{
-    width: 100%;
-    object-fit: cover;
+    width: 90%;
+    margin-top: 50px;
+    height: 50%;
+    
 }
 
 .about-section{
@@ -44,4 +46,22 @@ p{
 }
 .about-section img{
     
+}
+ 
+
+.recipy-cart{
+    width: 90%;
+    margin: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-shadow{
+    width: 40%;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 15px;
+}
+
+.cart-detail{
+    text-align: center;
 }
