@@ -6,14 +6,15 @@ margin: 0;
 h1{
     font-size: 55px;
     color: #575757;
+    margin: 0;
 }
 p{
     color: #828282;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .orange-btn{
-    background-color: orange;
+    background: linear-gradient(to left, orange, tomato);
     padding: 10px 40px;
     text-decoration: none;
     color: white;
@@ -72,7 +73,13 @@ p{
     box-shadow: 10px 10px 20px gray;
     border-radius: 10px;
     margin: 150px 150px 50px 150px;
+    padding: 50px;
 }
+
+.follower{
+    padding: 50px;
+}
+
 footer{
     background-color: black;
     color: white;
