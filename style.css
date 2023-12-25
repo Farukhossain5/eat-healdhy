@@ -48,7 +48,6 @@ p{
     
 }
  
-
 .recipy-cart{
     width: 90%;
     margin: 50px 50px;
@@ -64,4 +63,13 @@ p{
 
 .cart-detail{
     text-align: center;
+}
+
+.followers-section{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    margin: 150px 150px 50px 150px;
+    /* margin: ; */
 }
